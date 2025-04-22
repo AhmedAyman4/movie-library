@@ -1,4 +1,4 @@
-````md
+
 # Movie Library
 
 A React-based movie library application that allows users to search for movies, view trending movies, and explore detailed movie information. The app integrates with **The Movie Database (TMDb)** API and **Appwrite** for backend services.
@@ -24,7 +24,7 @@ A React-based movie library application that allows users to search for movies, 
    git clone https://github.com/your-username/movie-library.git
    cd movie-library
    ```
-````
+
 
 2. Install dependencies:
 
